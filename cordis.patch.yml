@@ -1,0 +1,9 @@
+- insert:
+    - id: brand-custom
+      name: 'dsh-brand-custom'
+      config:
+        #sidebarLogo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><circle cx="24" cy="24" r="19" fill="none" stroke="currentColor" stroke-width="5"/><circle cx="24" cy="24" r="6" fill="currentColor"/></svg>'
+        #heroLogo: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48"><circle cx="24" cy="24" r="19" fill="none" stroke="currentColor" stroke-width="5"/><circle cx="24" cy="24" r="6" fill="currentColor"/></svg>'
+        sidebarName: KEHANG
+        heroHeadline: KEHANG 专属智能助手
+        heroBadge: DSH
